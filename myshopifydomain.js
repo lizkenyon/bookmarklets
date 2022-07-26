@@ -1,0 +1,1 @@
+(() => { if (typeof Shopify === 'undefined') { alert('Not a Shopify store! ¯\_(ツ)_/¯'); } const x = document.createElement('input'); x.value = Shopify.shop; document.body.appendChild(x); x.select(); document.execCommand('copy'); document.body.removeChild(x); alert(`Copied ${Shopify.shop} to clipboard! 🤑`); })()
