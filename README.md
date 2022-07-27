@@ -25,7 +25,9 @@ https://user-images.githubusercontent.com/23265671/180918515-04dea765-a87b-42f9-
 ## Is this store Shopify
 This should work for liquid and headless storefronts
 
-https://user-images.githubusercontent.com/23265671/181146353-903d3d83-a10a-4150-8801-65c4bf85134e.mp4
+https://user-images.githubusercontent.com/23265671/181146530-1fd89e89-cb55-45b4-aa8a-f02fc636a8bf.mp4
+
+
 
 
 
