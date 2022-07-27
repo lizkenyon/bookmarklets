@@ -22,6 +22,13 @@ This will copy the myshopify domain of the Shopify store that you are on to your
 
 https://user-images.githubusercontent.com/23265671/180918515-04dea765-a87b-42f9-bf9c-92cd5261099a.mp4
 
+## Is this store Shopify
+This should work for liquid and headless storefronts
+
+https://user-images.githubusercontent.com/23265671/181146353-903d3d83-a10a-4150-8801-65c4bf85134e.mp4
+
+
+
 
 
 
