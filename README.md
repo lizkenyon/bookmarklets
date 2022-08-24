@@ -27,6 +27,12 @@ This should work for liquid and headless storefronts
 
 https://user-images.githubusercontent.com/23265671/181146530-1fd89e89-cb55-45b4-aa8a-f02fc636a8bf.mp4
 
+## Copy GraphQL Admin API ID from Product Page
+
+https://user-images.githubusercontent.com/23265671/186503343-50d82c8e-2cb7-466e-9625-26c269767eaa.mp4
+
+
+
 
 
 
