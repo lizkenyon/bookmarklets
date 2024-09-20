@@ -1,6 +1,6 @@
 async function copyURL() {
 const url = window.location.href;
-const trimedURL = url.replace('https://shopify.dev', '');
+const trimmedURL = url.replace('https://shopify.dev', '');
 const x = document.createElement('input'); 
 x.value = trimmedURL; 
 document.body.appendChild(x); 
